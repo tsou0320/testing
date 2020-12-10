@@ -7,3 +7,7 @@ print("789")
 print("012")
 
 print("llllppppp")
+
+
+
+print("pull")
